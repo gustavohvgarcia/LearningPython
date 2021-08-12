@@ -1,0 +1,32 @@
+O que é python?
+	Linguagem de programação de alto nivel;
+	Fortemente tipada;
+	Interpretada e orientada a objetos;
+	Linguagem de Scripts;
+
+Onde python pode ser usado?
+	-Desenvolvimento web: Django, Flask, Pyramid, Tornado;
+	-Desenvolvimento desktop: Tkinter, PyQT, Kivy;
+	-Ciencia de dados: SciPy, Pandas, IPython;
+	-Automação: desenvolvimento de scripts para automaçãod e tarefas;
+	
+É possivel obter tipos diferentes em uma lista;
+	
+Lista x tupla: a lista é mutavel, a tupla nao.
+
+Conjuntos não recebem elementos duplicados (SET)
+
+FUNCAO RETORNA UM VALOR, METODO NAO
+
+8//funcao pois retorna valor
+def soma(a,b):
+	return a+b
+
+->INTERAGINDO COM MODULOS
+	Em python, cada arquivo .py é um módulo;
+	Os modulos podem interagir entre si;
+
+funcao lambda: funcao anonima
+	forma de simplificar algo usado mais de uma vez no codigo
+
+o que sao pacotes
